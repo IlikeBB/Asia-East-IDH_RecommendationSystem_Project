@@ -4,7 +4,7 @@
 #### Stage 1-2. Find a suitable NLP Encoder model and use the extracted features for an MLP model.
 #### Stage 1-3. Determine whether Intradialytic Hypotension occurred during each dialysis session based on the classification results and blood pressure status.
 <img width="600" alt="image" src="https://github.com/IlikeBB/IDH_RecommendationSystem_Project/assets/32098079/46958a77-e8eb-4873-be66-dab57aeafa75">
-<img width="441" alt="image" src="https://github.com/IlikeBB/IDH_RecommendationSystem_Project/assets/32098079/ba44c930-4b86-4b01-8a4f-5277950db4bc">
+<img width="600" alt="image" src="https://github.com/IlikeBB/IDH_RecommendationSystem_Project/assets/32098079/ba44c930-4b86-4b01-8a4f-5277950db4bc">
 
 
 #### Stage 2. Build a recommendation system for the dehydration dosage during each dialysis session.
