@@ -8,6 +8,12 @@
 
 ### Stage 1-2. 
 `Find a suitable NLP Encoder model and use the extracted features for an MLP model.`
+
+| Model  | source url | Ouput embedding |
+| ------ | :----------: | :---------------: |
+| mUSE   | [Paper](https://arxiv.org/pdf/1907.04307)           | (,512)          |
+| mSBERT | [Paper](https://arxiv.org/abs/2004.09813)       | (,512)          |
+
 ### Stage 1-3. 
 `Determine whether Intradialytic Hypotension occurred during each dialysis session based on the classification results and blood pressure status.`
 ### Stage 1. Performance 
