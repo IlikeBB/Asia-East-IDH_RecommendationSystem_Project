@@ -2,7 +2,9 @@
 #### Stage 1. Construct a system for classifying records in free-text that contain symptoms of Intradialytic Hypotension (IDH).
 <img width="1000" alt="image" src="https://github.com/IlikeBB/IDH_RecommendationSystem_Project/assets/32098079/16a9f059-fa66-45dd-8570-5fac68e5693a">
 
-#### Stage 1-1. Data cleaning and enhancement of information in the free-text data.
+#### Stage 1-1.</br>
+```Data cleaning and enhancement of information in the free-text data.```</br>
+
 #### Stage 1-2. Find a suitable NLP Encoder model and use the extracted features for an MLP model.
 #### Stage 1-3. Determine whether Intradialytic Hypotension occurred during each dialysis session based on the classification results and blood pressure status.
 #### ```Stage 1. Training & Validation Performance```</br>
