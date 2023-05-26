@@ -17,7 +17,7 @@
 ### Stage 1-3. 
 `Determine whether Intradialytic Hypotension occurred during each dialysis session based on the classification results and blood pressure status.`
 ### Stage 1. Performance 
-`Training & Validation Performance`</br>
+`Stage 1. Training & Validation Performance`</br>
 <img width="600" alt="image" src="https://github.com/IlikeBB/IDH_RecommendationSystem_Project/assets/32098079/5abb54d8-b6d6-44f0-acb6-9203802b2a92">
 <img width="600" alt="image" src="https://github.com/IlikeBB/IDH_RecommendationSystem_Project/assets/32098079/8d59df10-2652-4df1-989b-04f6b9bb6f95">
 <img width="600" alt="image" src="https://github.com/IlikeBB/IDH_RecommendationSystem_Project/assets/32098079/135f0d5a-ff6f-40c3-8c9a-6aeee229e34a">
