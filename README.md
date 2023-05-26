@@ -12,7 +12,7 @@
 | Model  | source url | Ouput embedding |
 | ------ | :----------: | :---------------: |
 | mUSE   | [Paper](https://arxiv.org/pdf/1907.04307)           | (,512)          |
-| mSBERT | [Paper](https://arxiv.org/abs/2004.09813)       | (,512)          |
+| mSBERT | [Paper](https://arxiv.org/pdf/2004.09813.pdf)       | (,512)          |
 
 ### Stage 1-3. 
 `Determine whether Intradialytic Hypotension occurred during each dialysis session based on the classification results and blood pressure status.`
