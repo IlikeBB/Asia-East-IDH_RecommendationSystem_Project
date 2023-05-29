@@ -1,7 +1,7 @@
 # Asia East - Intradialytic Hypotension Recommendation System
 ### Stage 1. 
 `Construct a system for classifying records in free-text that contain symptoms of Intradialytic Hypotension (IDH).`
-<img width="1000" alt="image" src="https://github.com/IlikeBB/Asia-East-IDH_RecommendationSystem_Project/assets/32098079/ed0a2a2e-d6f9-4cc8-845d-63655d4f7e00">
+<img width="1000" alt="image" src="https://github.com/IlikeBB/Far-Eastern-Memorial-Hospital-IDH_RecommendationSystem_Project/assets/32098079/f1340c9c-3275-4be2-a5d8-037545f4edde">
 
 ### Stage 1-1. 
 `Data cleaning and enhancement of information in the free-text data.`
