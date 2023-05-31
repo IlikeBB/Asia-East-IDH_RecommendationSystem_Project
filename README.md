@@ -25,6 +25,7 @@
 `Stage 1. Test Performance`</br>
 <img width="600" height ="300" alt="image" src="https://github.com/IlikeBB/Asia-East-IDH_RecommendationSystem_Project/assets/32098079/3c7a264b-619d-427d-9b8c-d87abbad26eb">
 <img width="439" alt="image" src="https://github.com/IlikeBB/Asia-East-IDH_RecommendationSystem_Project/assets/32098079/0ddfa2f2-99d8-411d-bb19-f21e371d8574">
+
 ***
 
 #### Stage 2. ```Build a recommendation system for the dehydration dosage during each dialysis session.```
