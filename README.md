@@ -9,10 +9,10 @@
 ### Stage 1-2. 
 `Find a suitable NLP Encoder model and use the extracted features for an MLP model.`
 
-| Model  | source url | Ouput embedding |
-| ------ | :----------: | :---------------: |
-| mUSE   | [Paper](https://arxiv.org/pdf/1907.04307)           | (,512)          |
-| mSBERT | [Paper](https://arxiv.org/pdf/2004.09813.pdf)       | (,512)          |
+| Model  | source url | Ouput embedding | API |
+| ------ | :----------: | :---------------: | :------: |
+| mUSE   | [Paper](https://arxiv.org/pdf/1907.04307)           | (,512)          | [API]([https://arxiv.org/pdf/1907.04307](https://tfhub.dev/google/universal-sentence-encoder-multilingual-large/3)) |
+| mSBERT | [Paper](https://arxiv.org/pdf/2004.09813.pdf)       | (,512)          | [API]([https://arxiv.org/pdf/1907.04307](https://huggingface.co/sentence-transformers/distiluse-base-multilingual-cased-v1)) |
 
 ### Stage 1-3. 
 `Determine whether Intradialytic Hypotension occurred during each dialysis session based on the classification results and blood pressure status.`
