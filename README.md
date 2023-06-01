@@ -11,8 +11,8 @@
 
 | Model  | source url | Ouput embedding | API |
 | ------ | :----------: | :---------------: | :------: |
-| mUSE   | [Paper](https://arxiv.org/pdf/1907.04307)           | (,512)          | [API](https://arxiv.org/pdf/1907.04307](https://tfhub.dev/google/universal-sentence-encoder-multilingual-large/3) |
-| mSBERT | [Paper](https://arxiv.org/pdf/2004.09813.pdf)       | (,512)          | [API](https://arxiv.org/pdf/1907.04307](https://huggingface.co/sentence-transformers/distiluse-base-multilingual-cased-v1) |
+| mUSE   | [Paper](https://arxiv.org/pdf/1907.04307)           | (,512)          | [API](https://tfhub.dev/google/universal-sentence-encoder-multilingual-large/3) |
+| mSBERT | [Paper](https://arxiv.org/pdf/2004.09813.pdf)       | (,512)          | [API](https://huggingface.co/sentence-transformers/distiluse-base-multilingual-cased-v1) |
 
 ### Stage 1-3. 
 `Determine whether Intradialytic Hypotension occurred during each dialysis session based on the classification results and blood pressure status.`
