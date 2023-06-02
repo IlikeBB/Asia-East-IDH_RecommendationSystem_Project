@@ -26,6 +26,8 @@
 <img width="600" height ="300" alt="image" src="https://github.com/IlikeBB/Asia-East-IDH_RecommendationSystem_Project/assets/32098079/3c7a264b-619d-427d-9b8c-d87abbad26eb">
 <img width="439" alt="image" src="https://github.com/IlikeBB/Far-Eastern-Memorial-Hospital-IDH_RecommendationSystem_Project/assets/32098079/02c8a9a5-c8c3-467a-8254-a154d85ad980">
 
+<img width="787" alt="image" src="https://github.com/IlikeBB/Far-Eastern-Memorial-Hospital-IDH_RecommendationSystem_Project/assets/32098079/68fda81a-94b0-4735-a1b6-25448fb0727d"></br>
+*F = Version without doing COS</br>
 ***
 
 #### Stage 2. ```Build a recommendation system for the dehydration dosage during each dialysis session.```
